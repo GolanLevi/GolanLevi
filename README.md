@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GolanLevi&show_icons=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Golan's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="192px"/>
+  <img src="https://streak-stats.demolab.com?user=GolanLevi&theme=radical&hide_border=true" alt="Golan's GitHub streak" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
 </p>
 
 ---
