@@ -14,7 +14,9 @@
 <br>
 
 <p>
-  I'm a final-year Computer Science student at Afeka College of Engineering. I love building smart systems and have a deep passion for <strong>Generative AI</strong>, high-performance <strong>C++</strong> development, and creating smooth <strong>Android mobile applications</strong>. I'm currently looking for an opportunity to bring my skills to a challenging and innovative environment! 🚀
+  I'm a Software Developer and a Computer Science graduate from Afeka College of Engineering. My true passion lies in taking code and turning it into smart, efficient products. I deeply explore the world of <strong>Generative AI</strong>, enjoy building complex and high-performance systems in <strong>C++</strong>, and love crafting <strong>applications that are simply fun to use</strong>.
+  <br><br>
+  Always seeking the next challenge where I can write quality code, make a real impact, and be part of a strong team. 🚀 Feel free to dive into my projects right below!
 </p>
 
 ---
@@ -35,16 +37,19 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects That Speak for Themselves
 
-* 🏋️ **[Icon-Application](https://github.com/GolanLevi/Icon-Application)** 
-  An Android mobile app addressing real-world gym crowding. Features live occupancy tracking, Google Maps integration, Firebase authentication, and interactive searches for 35+ branches. *(Java, Android Studio, Firebase, Google Maps API)*
+* 🌟 **[MYOS - Dashboard Management System](https://github.com/GolanLevi/MyOs-dashboard-system)** 
+  A web-based <strong>React</strong> dashboard and virtual OS platform that I'm currently building. It simulates a full operating system experience right in the browser, complete with draggable and resizable windows, smart task management, dynamic data views, and a highly responsive UI. I've poured a lot of thought into the user experience and the Front-End architecture here. *(React, Advanced JavaScript, CSS)*
 
-* ✈️ **[Flight Company Management System](https://github.com/GolanLevi/C-Project---Flight-Company)** 
-  A comprehensive Object-Oriented C++ system modeling an airline. Fully implements deep concepts such as Inheritance, Polymorphism, generic Factories, File I/O algorithms, and custom Exceptions. *(Modern C++)*
+* ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
+  Built from scratch to master what happens "under the hood". This is a complex Object-Oriented system in C++ modeling a complete airline. It heavily focuses on performance and clean architecture—implementing deep concepts like Inheritance, Polymorphism, the Factory Pattern, custom exception handling, and pure memory management. *(Modern C++)*
 
-* 🤖 **AI / Gen-AI Explorations** *(Coming soon...)* 
-  Working on exploring Large Language Models and building AI-driven solutions.
+* 🏋️ **[Icon-Application (Android)](https://github.com/GolanLevi/Icon-Application)** 
+  An Android mobile app I developed out of a personal need to solve gym crowding issues. It provides real-time occupancy data, integrates with Google Maps to locate over 35 branches, and handles a full authentication flow against Firebase. *(Java, Android Studio, Firebase, Google Maps API)*
+
+* 🤖 **AI / Next Steps** *(Coming soon...)* 
+  Always learning—I'm currently diving deeper into Large Language Models (LLMs) and exploring Gen-AI solutions to integrate into my upcoming projects.
 
 ---
 
