@@ -40,7 +40,7 @@
 
 ### 🚀 Featured Projects That Speak for Themselves
 
-* 🌟 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
+* 🤖🧠 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
   An AI-powered personal assistant (integrated with Google Gemini) that I developed to manage everything from one place — emails, calendar, and messaging. The system automatically reads and classifies incoming messages (e.g., filtering spam, scheduling meetings in Google Calendar), drafts replies, and handles a full automated approval flow via Telegram using a "Human-in-the-Loop" approach. Built with a strong architectural focus on security and privacy. *(Python, Google Gemini AI, APIs, RAG)*
 
 * ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
@@ -51,15 +51,6 @@
 
 * 🤖 **AI / Next Steps** *(Coming soon...)* 
   Always learning—I'm currently diving deeper into Large Language Models (LLMs) and exploring Gen-AI solutions to integrate into my upcoming projects.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GolanLevi&theme=radical&hide_border=true" alt="Golan's GitHub streak" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
-</p>
 
 ---
 

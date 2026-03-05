@@ -46,7 +46,7 @@
 
 ### 🚀 פרויקטים מרכזיים שמדברים בעד עצמם
 
-* 🌟 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
+* 🤖🧠 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
   עוזר אישי חכם מבוסס AI (בשילוב Google Gemini) שפיתחתי במטרה לנהל הכל ממקום אחד - מיילים, יומן פגישות והודעות. המערכת קוראת ומסווגת אוטומטית הודעות נכנסות (למשל מסננת ספאם, או מתאמת פגישות מול גוגל קלנדר), מנסחת טיוטות, ומייצרת מהלך אישורים אוטומטי מלא דרך טלגרם בגישת "Human-in-the-Loop". בניתי את הכל בראייה ארכיטקטונית של אבטחה ופרטיות. *(Python, Google Gemini AI, APIs, RAG)*
 
 * ✈️ **[מערכת לניהול חברת תעופה (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
@@ -57,17 +57,6 @@
 
 * 🤖 **AI / מחקר מתקדם** *(בקרוב...)* 
   תמיד ממשיך ללמוד - בימים אלו אני חוקר לעומק מודלי שפה גדולים (LLMs) ועובד על פתרונות Gen-AI שיוכלו להשתלב בפרויקטים הבאים שלי.
-
----
-
-### 📊 סטטיסטיקות GitHub
-
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GolanLevi&theme=radical&hide_border=true" alt="Golan's GitHub streak" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
-</p>
 
 <div dir="rtl">
 
