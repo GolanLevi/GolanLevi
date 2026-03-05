@@ -14,7 +14,8 @@
 <br>
 
 <p>
-  I'm a Software Developer and a Computer Science graduate from Afeka College of Engineering. My true passion lies in taking code and turning it into smart, efficient products. I deeply explore the world of <strong>Generative AI</strong>, enjoy building complex and high-performance systems in <strong>C++</strong>, and love crafting <strong>applications that are simply fun to use</strong>.
+  Software Developer, Computer Science graduate from Afeka College of Engineering - driven by curiosity, a hunger for technological knowledge, and a love for pushing myself to the limit. My true passion lies in breaking down complex systems and building solutions that deliver real value and solve everyday problems.
+  I live and breathe the world of <strong>Generative AI</strong>, enjoy building high-performance systems "under the hood" in <strong>C++</strong>, and am constantly looking to learn new tools on the fly.
   <br><br>
   Always seeking the next challenge where I can write quality code, make a real impact, and be part of a strong team. 🚀 Feel free to dive into my projects right below!
 </p>
@@ -39,8 +40,8 @@
 
 ### 🚀 Featured Projects That Speak for Themselves
 
-* 🌟 **[MYOS - Dashboard Management System](https://github.com/GolanLevi/MyOs-dashboard-system)** 
-  A web-based <strong>React</strong> dashboard and virtual OS platform that I'm currently building. It simulates a full operating system experience right in the browser, complete with draggable and resizable windows, smart task management, dynamic data views, and a highly responsive UI. I've poured a lot of thought into the user experience and the Front-End architecture here. *(React, Advanced JavaScript, CSS)*
+* 🌟 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
+  An AI-powered personal assistant (integrated with Google Gemini) that I developed to manage everything from one place — emails, calendar, and messaging. The system automatically reads and classifies incoming messages (e.g., filtering spam, scheduling meetings in Google Calendar), drafts replies, and handles a full automated approval flow via Telegram using a "Human-in-the-Loop" approach. Built with a strong architectural focus on security and privacy. *(Python, Google Gemini AI, APIs, RAG)*
 
 * ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
   Built from scratch to master what happens "under the hood". This is a complex Object-Oriented system in C++ modeling a complete airline. It heavily focuses on performance and clean architecture—implementing deep concepts like Inheritance, Polymorphism, the Factory Pattern, custom exception handling, and pure memory management. *(Modern C++)*
@@ -56,8 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GolanLevi&show_icons=true&theme=radical&hide_border=true" alt="Golan's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GolanLevi&show_icons=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Golan's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="192px"/>
 </p>
 
 ---

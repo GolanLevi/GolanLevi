@@ -16,7 +16,8 @@
 <br>
 
 <p>
-  אני מפתח תוכנה ובוגר תואר במדעי המחשב ממכללת אפקה להנדסה. האהבה האמיתית שלי היא לקחת קוד ולהפוך אותו למוצר חכם ויעיל. אני חוקר לעומק את עולם ה-<strong>Generative AI (בינה מלאכותית יוצרת)</strong>, נהנה לכתוב מערכות מורכבות ב-<strong>C++</strong> (שם הכל קורה מאחורי הקלעים), ואוהב לבנות <strong>אפליקציות שכיף להשתמש בהן</strong>. 
+  מפתח תוכנה, בוגר תואר במדעי המחשב ממכללת אפקה להנדסה - מונע מסקרנות, רעב לידע טכנולוגי ואוהב לקחת אתגרים עד לקצה. האהבה העיקרית שלי היא לפרק מערכות מסובכות ולהרכיב אותן לפתרונות שנותנים ערך ופותרים בעיות יומיומיות אמיתיות. 
+  אני חי ונושם את עולם ה-<strong>Generative AI (בינה מלאכותית יוצרת)</strong>, נהנה לבנות מערכות ביצועים מתחת למכסה המנוע ב-<strong>C++</strong>, ותמיד מחפש ללמוד כלים חדשים תוך כדי תנועה.
   <br><br>
   תמיד מחפש את האתגר הבא ואת המקום שבו אוכל לכתוב קוד איכותי, להשפיע ולקחת חלק בצוות חזק. 🚀 מוזמנים לצלול לפרויקטים שלי כאן למטה!
 </p>
@@ -45,8 +46,8 @@
 
 ### 🚀 פרויקטים מרכזיים שמדברים בעד עצמם
 
-* 🌟 **[MYOS - Dashboard Management System](https://github.com/GolanLevi/MyOs-dashboard-system)** 
-  פלטפורמת ניהול ומערכת הפעלה וירטואלית מבוססת <strong>React</strong> שפיתחתי. המערכת מדמה חוויית מערכת הפעלה מלאה בתוך הדפדפן, עם חלונות הניתנים לגרירה והגדלה, ניהול משימות חכם, תצוגות נתונים מתקדמות וממשק משתמש חלק ורספונסיבי במיוחד. הקדשתי פה המון מחשבה לחווית המשתמש ולארכיטקטורה של ה-Front-End. *(React, JavaScript, CSS מתקדם)*
+* 🌟 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
+  עוזר אישי חכם מבוסס AI (בשילוב Google Gemini) שפיתחתי במטרה לנהל הכל ממקום אחד - מיילים, יומן פגישות והודעות. המערכת קוראת ומסווגת אוטומטית הודעות נכנסות (למשל מסננת ספאם, או מתאמת פגישות מול גוגל קלנדר), מנסחת טיוטות, ומייצרת מהלך אישורים אוטומטי מלא דרך טלגרם בגישת "Human-in-the-Loop". בניתי את הכל בראייה ארכיטקטונית של אבטחה ופרטיות. *(Python, Google Gemini AI, APIs, RAG)*
 
 * ✈️ **[מערכת לניהול חברת תעופה (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
   כדי להבין איך דברים באמת עובדים מתחת למכסה המנוע, בניתי מערכת מורכבת מונחית עצמים (OOP) ב-C++ המדלה חברת תעופה. הפרויקט הזה שם דגש חזק על ביצועים וארכיטקטורה נכונה - מימוש של ירושות, פולימורפיזם, Factory Pattern, ניהול זיכרון נקי, עבודה עם קבצים וחריגות מותאמות. *(Modern C++)*
@@ -64,8 +65,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GolanLevi&show_icons=true&theme=radical&hide_border=true" alt="Golan's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GolanLevi&show_icons=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Golan's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GolanLevi&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="192px"/>
 </p>
 
 <div dir="rtl">
