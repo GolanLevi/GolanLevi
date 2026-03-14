@@ -53,7 +53,7 @@
 * ✈️ **[מערכת לניהול חברת תעופה (C++)](https://github.com/GolanLevi/CPP-Project---Flight-Company)** 
   כדי להבין איך דברים באמת עובדים מתחת למכסה המנוע, בניתי מערכת מורכבת מונחית עצמים (OOP) ב-C++ המדלה חברת תעופה. הפרויקט הזה שם דגש חזק על ביצועים וארכיטקטורה נכונה - מימוש של ירושות, פולימורפיזם, Factory Pattern, ניהול זיכרון נקי, עבודה עם קבצים וחריגות מותאמות. *(Modern C++)*
 
-* 🧠 **[מערכת ניהול מבחנים (Java)](https://github.com/GolanLevi/Java-Exam-Management-System)**
+* 📝 **[מערכת ניהול מבחנים (Java)](https://github.com/GolanLevi/Java-Exam-Management-System)**
   מערכת מקיפה לניהול מבחנים אקדמיים המדגימה תכנון מונחה עצמים חזק, טיפול בחריגות לאימות לוגיקה עסקית ושמירת נתונים (Serialization). המערכת תומכת ביצירת מבחנים ידנית או אוטומטית אקראית. *(Java, OOP, Serialization, JUnit)*
 
 * 🏋️ **[Icon-Application (אנדרואיד)](https://github.com/GolanLevi/Icon-Application)** 
