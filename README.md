@@ -42,15 +42,16 @@
 
 * 🤖🧠 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
   An AI-powered personal assistant (integrated with Google Gemini) that I developed to manage everything from one place — emails, calendar, and messaging. The system automatically reads and classifies incoming messages (e.g., filtering spam, scheduling meetings in Google Calendar), drafts replies, and handles a full automated approval flow via Telegram using a "Human-in-the-Loop" approach. Built with a strong architectural focus on security and privacy. *(Python, Google Gemini AI, APIs, RAG)*
+  > 🤖 **Next Steps:** Integrating **LangChain** and **LangGraph** for advanced agentic workflows and building the **"Kefarim" interface**.
 
-* ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/C-Project---Flight-Company)** 
+* ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/CPP-Project---Flight-Company)** 
   Built from scratch to master what happens "under the hood". This is a complex Object-Oriented system in C++ modeling a complete airline. It heavily focuses on performance and clean architecture—implementing deep concepts like Inheritance, Polymorphism, the Factory Pattern, custom exception handling, and pure memory management. *(Modern C++)*
+
+* 🧠 **[Java Exam Management System](https://github.com/GolanLevi/Java-Exam-Management-System)** 
+  A comprehensive Java application for managing academic examinations. It features a robust Object-Oriented design, custom exception handling for business logic validation, and data persistence using Java Serialization. It supports both manual and automated random exam generation. *(Java, OOP, Serialization, JUnit)*
 
 * 🏋️ **[Icon-Application (Android)](https://github.com/GolanLevi/Icon-Application)** 
   An Android mobile app I developed out of a personal need to solve gym crowding issues. It provides real-time occupancy data, integrates with Google Maps to locate over 35 branches, and handles a full authentication flow against Firebase. *(Java, Android Studio, Firebase, Google Maps API)*
-
-* 🤖 **AI / Next Steps** *(Coming soon...)* 
-  Always learning—I'm currently diving deeper into Large Language Models (LLMs) and exploring Gen-AI solutions to integrate into my upcoming projects.
 
 ---
 
