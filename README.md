@@ -42,7 +42,7 @@
 
 * 🤖🧠 **[myOS — AI-Powered Personal Operating System](https://github.com/GolanLevi/myOS)** 
   An AI-powered personal assistant (integrated with Google Gemini) that I developed to manage everything from one place — emails, calendar, and messaging. The system automatically reads and classifies incoming messages (e.g., filtering spam, scheduling meetings in Google Calendar), drafts replies, and handles a full automated approval flow via Telegram using a "Human-in-the-Loop" approach. Built with a strong architectural focus on security and privacy. *(Python, Google Gemini AI, APIs, RAG)*
-  > 🤖 **Next Steps:** Integrating **LangChain** and **LangGraph** for advanced agentic workflows and building the **"Kefarim" interface**.
+  > 🤖 **Next Steps:** Integrating **LangChain** and **LangGraph** for advanced agentic workflows and building the **interactive buttons interface**.
 
 * ✈️ **[Flight Company Management System (C++)](https://github.com/GolanLevi/CPP-Project---Flight-Company)** 
   Built from scratch to master what happens "under the hood". This is a complex Object-Oriented system in C++ modeling a complete airline. It heavily focuses on performance and clean architecture—implementing deep concepts like Inheritance, Polymorphism, the Factory Pattern, custom exception handling, and pure memory management. *(Modern C++)*
